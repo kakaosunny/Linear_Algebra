@@ -1,4 +1,4 @@
-# 실습1
+# 실습 1
 
 import numpy as np
 
@@ -26,7 +26,7 @@ print("u · w =", np.dot(u,w))
 print("v · w =", np.dot(v,w))
 
 
-# 실습3
+# 실습 3
 
 import numpy as np
 
@@ -48,7 +48,7 @@ print("각 성분의 제곱 =", difference ** 2)
 print(f"두 벡터의 거리 = {distance: .6f}")
 
 
-# 실습4
+# 실습 4
 
 import numpy as np
 u = np.array([2,-5,-1])
@@ -69,7 +69,7 @@ print("||u||^2 =", squared_norm_u)
 print("||u - v||^2 =", squared_distance)
 
 
-# 실습5
+# 실습 5
 
 import numpy as np
 
@@ -133,7 +133,7 @@ print(f"각도(라디안)    = {theta_rad:.6f}")
 print(f"각도(도)        = {theta_deg:.6f}도")
 
 
-# 실습7
+# 실습 7
 
 import numpy as np
 
